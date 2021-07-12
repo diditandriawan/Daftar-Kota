@@ -1,6 +1,14 @@
 Daftar Kota Yang Ingin Dikunjungi
 
 - Yogyakarta
+ * Malioboro
+ * Candi
+ * Pantai
+ 
 - Bandung
-- Jakarta
+  * Gadok
+  * Jl. Merdeka
+
 - Solo
+  
+- Surabaya
