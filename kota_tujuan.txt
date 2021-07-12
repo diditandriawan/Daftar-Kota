@@ -1,10 +1,10 @@
 Daftar Kota Yang Ingin Dikunjungi
 
 - Yogyakarta
- * Malioboro
- * Candi
+ ^ Malioboro
+ ^ Candi
 
 - Bandung
- * A
- * B
- * C
+ ^ A
+ ^ B
+ ^ C
